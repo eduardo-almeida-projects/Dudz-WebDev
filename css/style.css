@@ -1,0 +1,506 @@
+/* 1024px */
+
+@media (max-width: 1024px) {
+    * {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+    }
+    :root {
+        --main: #2d3f58
+    }
+    html {
+        background-color: var(--main);
+    }
+    
+    img#dudzwd {
+        width: 50px;
+        left: 25px;
+        bottom: 25px;
+    }
+    
+    img#tela {
+        width: 240px;
+        left: 37%;
+        top: 19%;
+    }
+    img#iphone {
+        left: 30%;
+        top: 9%;
+    }
+    
+    
+    img#instagram {
+        right: 100px;
+        top: 75px;
+        width: 90px;
+    }
+    img#github {
+        right: 100px;
+        top: 275px;
+        width: 90px;
+        border-radius: 100px;
+    }
+    img#twitter {
+        right: 100px;
+        top: 475px;
+        width: 90px;
+        border-radius: 100px;
+    }
+    
+    img#telainsta {
+        width: 240px;
+        left: 37%;
+        top: 19%;
+        opacity: 0%;
+        transition: opacity 1s;
+    }
+    img#telagit {
+        width: 240px;
+        left: 37%;
+        top: 19%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+    img#telatwitter {
+        width: 240px;
+        left: 37%;
+        top: 19%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+}
+
+/* 768px */
+
+@media (max-width: 768px) {
+    * {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+    }
+    :root {
+        --main: #2d3f58
+    }
+    html {
+        background-color: var(--main);
+    }
+    
+    img#dudzwd {
+        width: 25px;
+        left: 10px;
+        top: 10px;
+    }
+    
+    img#tela {
+        width: 190px;
+        left: 37%;
+        top: 16%;
+    }
+    img#iphone {
+        width: 300px;
+        left: 30%;
+        top: 6%;
+    }
+    
+    
+    img#instagram {
+        left: 200px;
+        top: 500px;
+        width: 60px;
+    }
+    img#github {
+        left: 350px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    img#twitter {
+        right: 200px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    
+    img#telainsta {
+        width: 190px;
+        left: 37%;
+        top: 16%;
+        opacity: 0%;
+        transition: opacity 1s;
+    }
+    img#telagit {
+        width: 190px;
+        left: 37%;
+        top: 16%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+    img#telatwitter {
+        width: 190px;
+        left: 37%;
+        top: 17%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+}
+
+/* 425px */
+
+@media (max-width: 425px) {
+    * {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+    }
+    :root {
+        --main: #2d3f58
+    }
+    html {
+        background-color: var(--main);
+    }
+    
+    img#dudzwd {
+        width: 25px;
+        left: 10px;
+        top: 10px;
+    }
+    
+    img#tela {
+        width: 190px;
+        left: 28%;
+        top: 16%;
+    }
+    img#iphone {
+        width: 300px;
+        left: 15%;
+        top: 6%;
+    }
+    
+    
+    img#instagram {
+        left: 45px;
+        top: 500px;
+        width: 60px;
+    }
+    img#github {
+        left: 185px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    img#twitter {
+        right: 45px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    
+    img#telainsta {
+        width: 190px;
+        left: 28%;
+        top: 16%;
+        opacity: 0%;
+        transition: opacity 1s;
+    }
+    img#telagit {
+        width: 190px;
+        left: 28%;
+        top: 17%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+    img#telatwitter {
+        width: 190px;
+        left: 28%;
+        top: 16%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+}
+
+/* 375px */
+
+@media (max-width: 375px) {
+    * {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+    }
+    :root {
+        --main: #2d3f58
+    }
+    html {
+        background-color: var(--main);
+    }
+    
+    img#dudzwd {
+        width: 25px;
+        left: 10px;
+        top: 10px;
+    }
+    
+    img#tela {
+        width: 190px;
+        left: 25%;
+        top: 15%;
+    }
+    img#iphone {
+        width: 300px;
+        left: 10%;
+        top: 6%;
+    }
+    
+    
+    img#instagram {
+        left: 45px;
+        top: 500px;
+        width: 60px;
+    }
+    img#github {
+        left: 155px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    img#twitter {
+        right: 45px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    
+    img#telainsta {
+        width: 190px;
+        left: 25%;
+        top: 15%;
+        opacity: 0%;
+        transition: opacity 1s;
+    }
+    img#telagit {
+        width: 190px;
+        left: 25%;
+        top: 15%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+    img#telatwitter {
+        width: 190px;
+        left: 25%;
+        top: 15%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+}
+
+/* 320px */
+
+@media (max-width: 320px) {
+    * {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+    }
+    :root {
+        --main: #2d3f58
+    }
+    html {
+        background-color: var(--main);
+    }
+    
+    img#dudzwd {
+        width: 25px;
+        left: 10px;
+        top: 10px;
+    }
+    
+    img#tela {
+        width: 190px;
+        left: 20%;
+        top: 15%;
+    }
+    img#iphone {
+        width: 300px;
+        left: auto;
+        top: 5%;
+    }
+    
+    
+    img#instagram {
+        left: 45px;
+        top: 500px;
+        width: 60px;
+    }
+    img#github {
+        left: 130.5px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    img#twitter {
+        right: 45px;
+        top: 500px;
+        width: 60px;
+        border-radius: 100px;
+    }
+    
+    img#telainsta {
+        width: 190px;
+        left: 20%;
+        top: 15%;
+        opacity: 0%;
+        transition: opacity 1s;
+    }
+    img#telagit {
+        width: 190px;
+        left: 20%;
+        top: 15%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+    img#telatwitter {
+        width: 190px;
+        left: 20%;
+        top: 15%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+}
+
+* {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+}
+:root {
+    --main: #2d3f58
+}
+html {
+    background-color: var(--main);
+}
+
+img#dudzwd {
+    width: 50px;
+    left: 25px;
+    bottom: 25px;
+}
+
+img#tela {
+    left: 40%;
+    top: 21%;
+}
+img#iphone {
+    left: 35%;
+    top: 9%;
+}
+
+
+img#instagram {
+    right: 100px;
+    top: 75px;
+    width: 90px;
+}
+img#github {
+    right: 100px;
+    top: 275px;
+    width: 90px;
+    border-radius: 100px;
+}
+img#twitter {
+    right: 100px;
+    top: 475px;
+    width: 90px;
+    border-radius: 100px;
+}
+
+img#telainsta {
+    left: 40.5%;
+    top: 21%;
+    opacity: 0%;
+    transition: opacity 1s;
+}
+img#telagit {
+    left: 40.2%;
+    top: 21%;
+    opacity: 0%;
+    transition: opacity 2s;
+}
+img#telatwitter {
+    left: 40.5%;
+    top: 21%;
+    opacity: 0%;
+    transition: opacity 2s;
+}
+
+/* 1440px */
+
+@media (max-width: 1440px) {
+    * {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+    }
+    :root {
+        --main: #2d3f58
+    }
+    html {
+        background-color: var(--main);
+    }
+    
+    img#dudzwd {
+        width: 50px;
+        left: 25px;
+        bottom: 25px;
+    }
+    
+    img#tela {
+        width: 240px;
+        left: 40%;
+        top: 19%;
+    }
+    img#iphone {
+        left: 35%;
+        top: 9%;
+    }
+    
+    
+    img#instagram {
+        right: 100px;
+        top: 75px;
+        width: 90px;
+    }
+    img#github {
+        right: 100px;
+        top: 275px;
+        width: 90px;
+        border-radius: 100px;
+    }
+    img#twitter {
+        right: 100px;
+        top: 475px;
+        width: 90px;
+        border-radius: 100px;
+    }
+    
+    img#telainsta {
+        width: 240px;
+        left: 40%;
+        top: 19%;
+        opacity: 0%;
+        transition: opacity 1s;
+    }
+    img#telagit {
+        width: 240px;
+        left: 40%;
+        top: 19%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+    img#telatwitter {
+        width: 240px;
+        left: 40%;
+        top: 21%;
+        opacity: 0%;
+        transition: opacity 2s;
+    }
+}
