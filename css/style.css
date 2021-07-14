@@ -164,11 +164,11 @@ img#telatwitter {
     img#tela {
         width: 240px;
         left: 37%;
-        top: 19%;
+        top: 14%;
     }
     img#iphone {
         left: 30%;
-        top: 9%;
+        top: 2%;
     }
     
     
@@ -193,21 +193,21 @@ img#telatwitter {
     img#telainsta {
         width: 240px;
         left: 37%;
-        top: 19%;
+        top: 14%;
         opacity: 0%;
         transition: opacity 1s;
     }
     img#telagit {
         width: 240px;
         left: 37%;
-        top: 19%;
+        top: 14%;
         opacity: 0%;
         transition: opacity 2s;
     }
     img#telatwitter {
         width: 240px;
         left: 37%;
-        top: 19%;
+        top: 15%;
         opacity: 0%;
         transition: opacity 2s;
     }
