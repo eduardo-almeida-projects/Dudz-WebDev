@@ -1,0 +1,42 @@
+* {
+    position: fixed;
+    margin: 0;
+}
+
+.container {
+    right: -25%;
+    top: 40%;
+}
+
+input#email {
+    padding: 5px;
+    top: 35%;
+    border-color: #3462a3;
+    border-radius: 100px;
+}
+input#senha {
+    padding: 5px;
+    top: 42%;
+    border-color: #3462a3;
+    border-radius: 100px;
+}
+input#login {
+    padding: 5px;
+    width: 190px;
+    color: white;
+    top: 50%;
+    background-color: #8b8b8b;/* Quando passar o mouse: #006aff */
+    transition: background-color 0.5s;
+    border-color: black;
+    border-radius: 10px;
+}
+input#register {
+    padding: 5px;
+    width: 100px;
+    color: white;
+    top: 57%;
+    background-color: #38863c; /* Quando passar o mouse #389c3d */
+    transition: background-color 0.4s;
+    border-color: black;
+    border-radius: 10px;
+}
