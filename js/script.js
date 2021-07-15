@@ -1,13 +1,3 @@
-var logado = false
-if (localStorage.getItem("acesso") == "true") {
-    logado = true
-    console.log('Estado de autenticação:', logado)
-}
-if (logado != true) {
-    window.alert('[ERRO] => Você não está autenticado, redirecionando...')
-    window.location.href = 'login.html'
-}
-
 let site = window.document.getElementById('html')
 let tela_celular = window.document.getElementById('tela')
 
